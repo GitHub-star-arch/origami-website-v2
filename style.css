@@ -1,0 +1,15 @@
+h1{
+    color: black;
+}
+/* {
+    border:solid cornflowerblue;
+} */
+.portals {
+    display: flex;
+        justify-content: space-evenly ;
+            background-color: crimson;
+  }
+.social {
+    display: flex;
+    justify-content: flex-end;
+}
